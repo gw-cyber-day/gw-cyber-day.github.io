@@ -32,6 +32,34 @@ $gw_gold_accent: #F9E08E;
 }
 
 .site-footer p{
-    color: $gw_blue_primary; 
+    color: $gw_blue_primary;
+
 }
 
+.reg-link{
+    text-align:center;
+}
+
+.reg-link button {
+    border-radius: 10px;
+    border: 2px solid black;
+    width: $content-width/5;
+    color: $gw_gold_accent;
+    background-color: $gw_blue_accent;
+    font-size: $base-font-size*1.25;
+    transition-duration: 0.4s;
+//    margin-left:auto;
+//  margin-right:auto;
+}
+
+.reg-link button:hover{
+    background-color: $gw_blue_primary;
+}
+
+.reg-link button:active{
+    background-color: $gw_blue_primary;
+    box-shadow: 0 5px #666;
+    border: 2px solid gray;
+    transform: translateY(2px);
+
+}

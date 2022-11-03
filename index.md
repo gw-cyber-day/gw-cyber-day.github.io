@@ -5,5 +5,9 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: page
 ---
+
+{% for post in site.posts limit:1 %}
+  {{post.content}}
+{% endfor %}
