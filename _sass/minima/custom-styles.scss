@@ -6,6 +6,31 @@ $gw_gold_primary: #AA9868;
 $gw_blue_accent: #0190DB;
 $gw_gold_accent: #F9E08E;
 
+$base-font-size: 14px !default;
+$base-font-weight: 400 !default;
+
+$link-base-color: $gw_blue_accent;
+$link-hover-color: $gw_gold_accent;
+$link-visited-color: $gw_blue_accent;
+
+body{
+    font-family: Figtree;
+}
+
+a {
+  color: $link-base-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $link-visited-color;
+  }
+
+  &:hover {
+    color: $link-hover-color;
+    text-decoration: underline;
+  }
+}
+
 .site-header {
     background-color: $gw_blue_primary;
     color: white;
@@ -28,6 +53,8 @@ $gw_gold_accent: #F9E08E;
 }
 
 .site-footer {
+    border-top: 5px solid $gw_blue_primary;
+    border-bottom: 5px solid $gw_blue_primary;
     background-color: $gw_gold_accent;
 }
 
