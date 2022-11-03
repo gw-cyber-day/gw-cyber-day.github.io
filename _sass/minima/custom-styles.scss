@@ -34,7 +34,7 @@ a {
 .site-header {
     background-color: $gw_blue_primary;
     color: white;
-    max-height: $spacing-unit * 2;
+//    max-height: $spacing-unit * 2;
     border-top: 5px solid $gw_gold_primary;
     border-bottom: 5px solid $gw_gold_primary;
 
@@ -43,7 +43,7 @@ a {
 .site-header img {
     max-height: $spacing-unit * 1.5;
     object-fit: contain;
-    float:left;
+//    float:left;
     padding: $spacing-unit *.25;
 }
 
