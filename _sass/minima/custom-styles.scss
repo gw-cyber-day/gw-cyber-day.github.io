@@ -1,2 +1,37 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+$gw_blue_primary: #033C5A;
+$gw_gold_primary: #AA9868;
+$gw_blue_accent: #0190DB;
+$gw_gold_accent: #F9E08E;
+
+.site-header {
+    background-color: $gw_blue_primary;
+    color: white;
+    max-height: $spacing-unit * 2;
+    border-top: 5px solid $gw_gold_primary;
+    border-bottom: 5px solid $gw_gold_primary;
+
+}
+
+.site-header img {
+    max-height: $spacing-unit * 1.5;
+    object-fit: contain;
+    float:left;
+    padding: $spacing-unit *.25;
+}
+
+.site-title, .site-title:visited {
+    color: white;
+    float: center;
+}
+
+.site-footer {
+    background-color: $gw_gold_accent;
+}
+
+.site-footer p{
+    color: $gw_blue_primary; 
+}
+
