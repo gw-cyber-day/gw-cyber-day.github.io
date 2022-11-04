@@ -37,19 +37,40 @@ a {
 //    max-height: $spacing-unit * 2;
     border-top: 5px solid $gw_gold_primary;
     border-bottom: 5px solid $gw_gold_primary;
-
+    
 }
 
 .site-header img {
     max-height: $spacing-unit * 1.5;
     object-fit: contain;
-//    float:left;
+    float:left;
     padding: $spacing-unit *.25;
+}
+
+.site-header table {
+    border: none;
+    background-color: $gw_blue_primary;
+    color: $gw_blue_primary;
+
+    vertical-align: middle;
+    height: 100%;
+    width: 100%;
+}
+.site-header td, .site-header tr{
+    border: none;
+    padding: 0px 0px;
+    background-color: $gw_blue_primary;
 }
 
 .site-title, .site-title:visited {
     color: white;
-    float: center;
+    line-height: $spacing-unit; //25px;
+//    float: center;
+}
+
+.site-subtitle{
+    color:white;
+    float:center;
 }
 
 .site-footer {
