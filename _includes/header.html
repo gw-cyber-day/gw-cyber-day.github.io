@@ -7,9 +7,11 @@
 
 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ site.icon | escape }}">
-      {{ site.title | escape }} <br>
+      <!-- <img src="{{ site.icon | escape }}"> -->
+      <!-- <span class="site-title-text"> -->
+      {{ site.title | escape }} 
       {{ site.subtitle | escape }}
+      <!-- </span> -->
     </a>
 
     {%- if titles_size > 0 -%}
