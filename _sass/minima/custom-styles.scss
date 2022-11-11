@@ -50,7 +50,6 @@ a {
 .site-header {
     background-color: $gw_blue_primary;
     color: white;
-    font-style: bold;
 //    max-height: $spacing-unit * 2;
     //border-top: 5px solid $gw_gold_primary;
     //border-bottom: 5px solid $gw_gold_primary;
@@ -103,6 +102,9 @@ a {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
     letter-spacing:0px;
+    font-style: bold;
+    font-weight: 400;
+
 }
 
 .site-title-text{
@@ -158,6 +160,31 @@ a {
     color: $gw_blue_secondary;
 }
 
+.part-table tr td{
+    border-collapse: collapse;
+    border: none;
+}
+
+.part-table td{
+    align:center;
+}
+.part-img{
+  padding: .25rem;
+  background-color: #fff;
+  border: 1px solid var(--bs-border-color);
+  border-radius: .375rem;
+  max-width: 5*$spacing-unit;
+  max-height: 5*$spacing-unit;
+  height: auto;
+  text-align:center;
+}
+
+.banner-img{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 // .reg-link button:active{
 //     background-color: $gw_blue_primary;
 //     box-shadow: 0 5px #666;

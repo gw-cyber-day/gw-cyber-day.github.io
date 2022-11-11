@@ -5,7 +5,7 @@ icon: imgs/gw_monogram_wht_rev.png
 #  name: 
 #  email: aaviv@gwu.ed
 description: > # this means to ignore newlines until "show_excerpts:"
-  Cybersecurity&Privacy@GW Research and Education Day is an event to bring people
+  Cybersecurity&Privacy@GW Research and Education Day is a new event to bring people
   together from the GW community who are involved in the university's
   cybersecurity research and/or education efforts.
 
@@ -53,7 +53,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
+
+header_pages: none
 # - about.md
 
 # Build settings
