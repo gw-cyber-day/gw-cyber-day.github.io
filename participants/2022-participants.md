@@ -46,7 +46,7 @@ title: Participants 2022 Cybersecurity@GW Day (Dec 13, 2022)
             <ul>
                 <li><a href="https://www2.seas.gwu.edu/~guruv/">Guru Venkataramani</a></li>
                 <ul>
-                    <li> Associate Professor of Electrical and Computer Engineering </li>
+                    <li> Professor of Electrical and Computer Engineering </li>
                     <li> School of Engineering and Applied Science </li>
                     <li> Research Interests: Hardware and Systems security</li>
                     <li> Relevant Classes: ECE 6160 Secure Computing Systems</li>
