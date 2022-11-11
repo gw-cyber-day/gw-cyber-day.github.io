@@ -166,17 +166,20 @@ a {
 }
 
 .part-table td{
-    align:center;
+    align:left;
 }
 .part-img{
-  padding: .25rem;
-  background-color: #fff;
-  border: 1px solid var(--bs-border-color);
-  border-radius: .375rem;
-  max-width: 5*$spacing-unit;
-  max-height: 5*$spacing-unit;
-  height: auto;
-  text-align:center;
+    object-fit: cover;
+    width: 4.5*$spacing-unit;
+    height: 4.5*$spacing-unit;
+    padding: .25rem;
+    border-radius: 50%;
+    border: 1px solid $gw_blue_secondary;
+    //border-radius: .375rem;
+    max-width: 5*$spacing-unit;
+    max-height: 5*$spacing-unit;
+    height: auto;
+    text-align:center;
 }
 
 .banner-img{

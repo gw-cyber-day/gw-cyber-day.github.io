@@ -1,0 +1,28 @@
+pis:
+  - name: Adam J. Aviv
+    website: https://adamaviv.com
+    img: "/participants/2022-imgs/adamaviv.jpg"
+    title:  Associate Professor of Computer Science
+    school: School of Engineering and Applied Science
+    int: Usable Security and Privacy, Security Measurement, System Security
+    class: CS6907 Usable Security and Privacy
+  - name: Rahul Simha
+    website: https://www2.seas.gwu.edu/~simha/
+    img: "/participants/2022-imgs/simha_0.jpg"
+    title: Professor of Computer Science
+    school: School of Engineering and Applied Science
+    int:  Cybersecurity Education
+  - name: Guru Venkataramani
+    website: https://www2.seas.gwu.edu/~guruv/
+    img: /participants/2022-imgs/guruv.jpg
+    title: Professor of Electrical and Computer Engineering
+    school: School of Engineering and Applied Science
+    int: Hardware and Systems security
+    class: ECE 6160 Secure Computing Systems
+staff:
+  - name: Costis Toregas
+    img: /participants/2022-imgs/costis.jpg
+    website: https://cspri.seas.gwu.edu/costis-toregas
+    title: Director CSPRI
+    school: School of Engineering and Applied Science
+  

@@ -1,0 +1,32 @@
+
+<tr>
+  <td>
+    {% if part.img and part.website %}
+    <a href="{{ part.website }}"> <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}"></a>
+    {% elsif part.img %}
+    <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}">
+    {% else %}
+    <img class="part-img" src="imgs/gw_monogram_2c.png">
+    {% endif %}
+  </td>
+  <td>
+    <ul>
+      <li>
+        {% if part.website %}
+        <a href="{{ part.website }}"> {{ part.name }}</a></li>
+      {% else %}
+      {{ part.name }}
+      {% endif %}
+      <ul>
+        <li> {{ part.title }} </li>
+        <li> {{ part.school}} </li>
+        {% if part.int %}
+        <li> Interests: {{ part.int }} </li>
+        {% endif %}
+        {% if part.class %}
+        <li> Relevant Courses: {{ part.class }}</li>
+        {% endif %}
+      </ul>
+    </ul>
+  </td>
+</tr>
