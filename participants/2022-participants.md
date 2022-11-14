@@ -1,9 +1,18 @@
 ---
 layout: 2022_page
-title: Participants 2022 Cybersecurity@GW Day (Dec 13, 2022)
+title: Participants
 ---
 
 # 2022 Registered Participants
+
+{% if site.data.2022_participants.leadership %}
+## University and School Leadership
+<table class="part-table">
+{% for part in site.data.2022_participants.leadership %}
+{% include bio_row.html %}
+{% endfor %}
+</table>
+{% endif %}
 
 
 {% if site.data.2022_participants.pis %}

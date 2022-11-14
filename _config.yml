@@ -54,9 +54,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 
-header_pages: none
-# - about.md
-
+header_pages:
+  - participants/2022-participants.md
+  - schedule/2022-schedule.md
 # Build settings
 theme: minima
 

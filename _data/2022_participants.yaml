@@ -1,3 +1,10 @@
+leadership:
+  - name: John Lach
+    website: https://www.seas.gwu.edu/john-lach
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/downloads/Lach0919.jpg?itok=khAwH_rh
+    title: Dean, School of Engineering and Applied Science; and Professor of Electrical and Computer Engineering
+    school: School of Engineering and Applied Sience
+    
 pis:
   - name: Adam J. Aviv
     website: https://adamaviv.com
@@ -19,10 +26,57 @@ pis:
     school: School of Engineering and Applied Science
     int: Hardware and Systems security
     class: ECE 6160 Secure Computing Systems
+  - name: Sibin Mohan
+    website: https://www.seas.gwu.edu/sibin-mohan
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/sibin.png?itok=WNCgK7Po
+    title: Associate Professor of Computer Science
+    school: School of Engineering and Applied Science
+    int: Systems security, Autonomous Systems, CPS, OS
+    class: CSCI 6907 Secure Autonomous Systems
+  - name: Susan Aaronson
+    website: https://elliott.gwu.edu/susan-aaronson
+    img: https://elliott.gwu.edu/sites/g/files/zaxdzs4886/files/image/Aaronson%2C%20Susan.jpg
+    title: Research Professor; Founder Director, Digital Trade and Data Governance Hub
+    school: Elliot School of International Affairs
+    int: Relationship to data governance 
+  - name: Daniel Solove
+    website: https://danielsolove.com
+    img: https://www.danielsolove.com/wp-content/uploads/2019/03/Solove-Daniel-cropped-400x400.jpg
+    title: John Marshall Harlan Research Professor of Law George Washington University Law School
+    school: George Washington University Law School
+    int: Privacy and data security
+    class: Information Privacy Law
+  - name: Arkady Yerukhimovich
+    website: https://www2.seas.gwu.edu/~arkady/
+    img: https://www2.seas.gwu.edu/~arkady/Portrait_cropped.jpg
+    title:  Assistant Professor of Computer Science
+    school: School of Engineering and Applied Science
+    int: Theoretic and Applied Cryptography
+    class: CS 4331/6331 -- Cryptography, CS 3907/6907 -- Advanced Cryptography
+  - name: Scott J. White 
+    website: https://www.cps.gwu.edu/dr-scott-j-white
+    img: https://www.cps.gwu.edu/sites/g/files/zaxdzs2416/f/styles/person_main_image/public/image/CPS_White_720x1080.jpg?itok=Oltd6dIz
+    title: Associate Professor and Director of the Cybersecurity Program and Cyber Academy
+    school: College of Professional Studies
+    int: Cybersecurity, Cybercrime, Counter-terrorism and Infrastructure Protection.
+    class: Masters in Cybersecurity Strategy & Information Management
+  - name: Howie Huang
+    website: http://howie.seas.gwu.edu
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/faculty_headshots/Huang_Howie0220.jpg?itok=jvx0Zirp
+    title: Professor of Electrical and Computer Engineering
+    school: School of Engineering and Applied Science
+    int: Designing and developing computer algorithms and systems for cyber threat detection. 
+    class: ECE 6130 Big Data and Cloud Computing
+
 staff:
   - name: Costis Toregas
     img: /participants/2022-imgs/costis.jpg
     website: https://cspri.seas.gwu.edu/costis-toregas
     title: Director CSPRI
     school: School of Engineering and Applied Science
-  
+  - name: Connie Peterson Uthoff
+    img: https://www.cps.gwu.edu/sites/g/files/zaxdzs2416/f/styles/person_main_image/public/image/CPS_Utoff_720x1080.jpg?itok=nCFqzNx2
+    website: https://www.cps.gwu.edu/connie-peterson-uthoff
+    title: Program Director, Cybersecurity Strategy and Information Management Program; Assistant Professor
+    school: College of Professional Studies
+    
