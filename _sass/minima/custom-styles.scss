@@ -170,6 +170,9 @@ a {
 }
 .part-img{
     object-fit: cover;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
     width: 4.5*$spacing-unit;
     height: 4.5*$spacing-unit;
     padding: .25rem;
@@ -178,8 +181,8 @@ a {
     //border-radius: .375rem;
     max-width: 5*$spacing-unit;
     max-height: 5*$spacing-unit;
-    height: auto;
     text-align:center;
+
 }
 
 .banner-img{
@@ -188,6 +191,18 @@ a {
     margin-left: auto;
     margin-right: auto;
 }
+
+.site-nav {
+    background-color: $gw_blue_primary;
+    border: 1px solid white; //#e8e8e8;
+}
+
+.site-nav .menu-icon {
+  line-height: 0;
+  text-align: center;
+  color: white;
+}
+
 // .reg-link button:active{
 //     background-color: $gw_blue_primary;
 //     box-shadow: 0 5px #666;

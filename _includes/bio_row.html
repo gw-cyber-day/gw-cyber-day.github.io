@@ -6,7 +6,7 @@
     {% elsif part.img %}
     <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}">
     {% else %}
-    <img class="part-img" src="imgs/gw_monogram_2c.png">
+    <img class="part-img" src="/imgs/gw_monogram_2c.png">
     {% endif %}
   </td>
   <td>
@@ -18,8 +18,8 @@
       {{ part.name }}
       {% endif %}
       <ul>
-        <li> {{ part.title }} </li>
-        <li> {{ part.school}} </li>
+        {% if part.title %}<li> {{ part.title }} </li> {% endif %}
+        {% if part.school %}<li> {{ part.school}} </li> {% endif %}
         {% if part.int %}
         <li> Interests: {{ part.int }} </li>
         {% endif %}

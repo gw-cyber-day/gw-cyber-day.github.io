@@ -1,4 +1,9 @@
 leadership:
+  - name: Pamela M. Norris
+    website: https://www.seas.gwu.edu/pamela-m-norris
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/norris.png?itok=U47c3EFS
+    title: Vice Provost for Research
+    
   - name: John Lach
     website: https://www.seas.gwu.edu/john-lach
     img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/downloads/Lach0919.jpg?itok=khAwH_rh
@@ -41,7 +46,7 @@ pis:
     int: Relationship to data governance 
   - name: Daniel Solove
     website: https://danielsolove.com
-    img: https://www.danielsolove.com/wp-content/uploads/2019/03/Solove-Daniel-cropped-400x400.jpg
+    img: https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/styles/person_main_image/public/image/daniel-solove-headshot.png?itok=VCidHQTj
     title: John Marshall Harlan Research Professor of Law George Washington University Law School
     school: George Washington University Law School
     int: Privacy and data security
@@ -67,7 +72,13 @@ pis:
     school: School of Engineering and Applied Science
     int: Designing and developing computer algorithms and systems for cyber threat detection. 
     class: ECE 6130 Big Data and Cloud Computing
-
+  - name: Hurriyet Ok
+    website: https://blogs.gwu.edu/hurriyetok
+    title: Senior Research Fellow, Computer Science
+    school: School of Engineering and Applied Science
+    int: Secure AR and VR systems, e-commerce security, end-point security
+    class: CSCI 6548 E-Commerce Security
+      
 staff:
   - name: Costis Toregas
     img: /participants/2022-imgs/costis.jpg
