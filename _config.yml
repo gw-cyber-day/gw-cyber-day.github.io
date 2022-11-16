@@ -57,6 +57,7 @@ minima:
 header_pages:
   - participants/2022-participants.md
   - schedule/2022-schedule.md
+  
 # Build settings
 theme: minima
 
