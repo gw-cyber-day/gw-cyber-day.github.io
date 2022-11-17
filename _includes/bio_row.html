@@ -13,12 +13,14 @@
     <ul>
       <li>
         {% if part.website %}
-        <a href="{{ part.website }}"> {{ part.name }}</a></li>
-      {% else %}
-      {{ part.name }}
-      {% endif %}
+        <a href="{{ part.website }}"> {{ part.name }}</a>
+        {% else %}
+        {{ part.name }}
+        {% endif %}
+      </li>
       <ul>
         {% if part.title %}<li> {{ part.title }} </li> {% endif %}
+        {% if part.adv %}<li> Advisor: {{ part.adv }} </li> {% endif %}        
         {% if part.school %}<li> {{ part.school}} </li> {% endif %}
         {% if part.int %}
         <li> Interests: {{ part.int }} </li>

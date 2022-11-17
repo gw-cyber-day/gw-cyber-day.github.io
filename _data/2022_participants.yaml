@@ -4,12 +4,19 @@ leadership:
     img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/norris.png?itok=U47c3EFS
     title: Vice Provost for Research
     
+  - name: Geneva Henry
+    website: https://provost.gwu.edu/geneva-henry-0
+    img: https://provost.gwu.edu/sites/g/files/zaxdzs626/f/downloads/Geneva-Henry_UP_2014-WLA_1128.jpg
+    title: Dean of Libraries and Academic Innovation; Vice Provost for IT
+    school: Library and Academic Inovation and GW-IT
+    
   - name: John Lach
     website: https://www.seas.gwu.edu/john-lach
     img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/downloads/Lach0919.jpg?itok=khAwH_rh
     title: Dean, School of Engineering and Applied Science; and Professor of Electrical and Computer Engineering
     school: School of Engineering and Applied Sience
-    
+
+
 pis:
   - name: Adam J. Aviv
     website: https://adamaviv.com
@@ -91,3 +98,11 @@ staff:
     title: Program Director, Cybersecurity Strategy and Information Management Program; Assistant Professor
     school: College of Professional Studies
     
+student:
+  - name: Collins Munyendo
+    website: https://collinsmunyendo.github.io/
+    img: https://collinsmunyendo.github.io/images/collins_munyendo_cropped.png
+    int: Usable security and privacy
+    school: School of Engineering and Applied Science
+    title: PhD Student in Computer Science
+    adv: Dr. Adam J. Aviv

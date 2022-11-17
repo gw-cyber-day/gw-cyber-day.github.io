@@ -33,6 +33,16 @@ title: Participants
 </table>
 {% endif %}
 
+{% if site.data.2022_participants.student %}
+## Students
+<table class="part-table">
+{% for part in site.data.2022_participants.student %}
+{% include bio_row.html %}
+{% endfor %}
+</table>
+{% endif %}
+
+
 
 To be added to the list of participants, please register.
 
