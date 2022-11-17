@@ -2,11 +2,11 @@
 <tr>
   <td>
     {% if part.img and part.website %}
-    <a href="{{ part.website }}"> <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}"></a>
+    <a href="{{ part.website }}"> <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}"  title="{{ part.name }}"></a>
     {% elsif part.img %}
-    <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}">
+    <img class="part-img" src="{{ part.img }}" alt="{{ part.name }}" title="{{ part.name }}">
     {% else %}
-    <img class="part-img" src="/imgs/gw_monogram_2c.png">
+    <img class="part-img" src="/imgs/gw_monogram_2c.png" alt="{{ part.name }}" title="{{ part.name }}>
     {% endif %}
   </td>
   <td>

@@ -34,11 +34,11 @@ body{
 }
 
 a {
-    color: $base-font-color;
+    color: $gw-blue-accent;
     text-decoration: underline;
     
   &:visited {
-      color: $base-font-color;
+      color: $gw-blue-accent;
   }
 
   &:hover {
@@ -149,7 +149,7 @@ a {
     transition-timing-function: ease-in-out, ease-in-out, ease-in-out, ease-in-out;
     transition-delay: 0s, 0s, 0s, 0s;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-
+    cursor: pointer;
 //    margin-left:auto;
 //  margin-right:auto;
 }
@@ -158,6 +158,7 @@ a {
     background-color: $gw_hover_buff;
     border: 2px solid $gw_hover_buff;
     color: $gw_blue_secondary;
+    cursor: pointer;
 }
 
 .part-table tr td{
