@@ -20,8 +20,11 @@ $link-hover-color: $gw_brown;
 $link-visited-color: $gw_blue_accent;
 
 body{
-    font-family: 'Avenir Next LT Pro', sans-serif;
-    //    font-family: Figtree;
+
+    font-family: 'Avenir', Helvetica,Arial,sans-serif;
+
+    // font-family: 'Avenir Next LT Pro', sans-serif;
+    // //    font-family: Figtree;
     font-size: $base-font-size;
     color: $base-font-color;
     letter-spacing: normal;
@@ -50,6 +53,7 @@ a {
 .site-header {
     background-color: $gw_blue_primary;
     color: white;
+    min-height: $spacing-unit * 2;
 //    max-height: $spacing-unit * 2;
     //border-top: 5px solid $gw_gold_primary;
     //border-bottom: 5px solid $gw_gold_primary;
