@@ -106,3 +106,15 @@ student:
     school: School of Engineering and Applied Science
     title: PhD Student in Computer Science
     adv: Dr. Adam J. Aviv
+  - name: David G. Balash
+    website: https://davidbalash.github.io/
+    img: https://davidbalash.github.io/david.jpg
+    int: Usable security and privacy
+    school: School of Engineering and Applied Science
+    title: PhD Student in Computer Science
+    adv: Dr. Adam J. Aviv
+  - name: Ruining Yang
+    int: Usable security and privacy
+    title: MS Student in Computer Science
+    school: School of Engineering and Applied Science
+    adv: Dr. Adam J. Aviv
