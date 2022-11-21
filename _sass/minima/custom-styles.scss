@@ -82,17 +82,27 @@ a {
     background-color: $gw_blue_primary;
 }
 
+.site-nav .page-link{
+    color:white;
+    border-bottom: 1px solid #fff;
+//    text-decoration:underline
+}
+
 .site-header a, .page-link a{
     color: white;
     text-decoration: none;
     
   &:visited {
       color: white;
+      border-bottom: 1px solid #fff;
   }
 
   &:hover {
       color: white;
-      text-decoration: underline;
+//      background-color: $gw_blue_accent;
+//      text-decoration: underline;
+      text-decoration: none;
+      border-bottom: 1px dashed #fff;
   }
 
 }
@@ -207,6 +217,7 @@ a {
   text-align: center;
   color: white;
 }
+
 
 // .reg-link button:active{
 //     background-color: $gw_blue_primary;
