@@ -5,7 +5,14 @@ title: Participants
 
 # 2022 Registered Participants
 
+* [University and School Leadership](#leadership)
+* [Faculty, Researchers or Principal Investigators](#faculty)
+* [Research and Support Staff](#staff)
+* [Research Students](#rstudents)
+* [Students](#ostudents)
+
 {% if site.data.2022_participants.leadership %}
+<a id="leadership"></a>
 ## University and School Leadership
 <table class="part-table">
 {% for part in site.data.2022_participants.leadership %}
@@ -16,7 +23,8 @@ title: Participants
 
 
 {% if site.data.2022_participants.pis %}
-## Faculty, Researcher or Principal Investigator
+<a id="faculty"></a>
+## Faculty, Researchers or Principal Investigators
 <table class="part-table">
 {% for part in site.data.2022_participants.pis %}
 {% include bio_row.html %}
@@ -25,6 +33,7 @@ title: Participants
 {% endif %}
 
 {% if site.data.2022_participants.staff %}
+<a id="staff"></a>
 ## Research or Support Staff
 <table class="part-table">
 {% for part in site.data.2022_participants.staff %}
@@ -33,13 +42,24 @@ title: Participants
 </table>
 {% endif %}
 
-{% if site.data.2022_participants.student %}
-## Students
+{% if site.data.2022_participants.rstudent %}
+<a id="rstudents"></a>
+## Research Graduate Students
 <table class="part-table">
-{% for part in site.data.2022_participants.student %}
+{% for part in site.data.2022_participants.rstudent %}
 {% include bio_row.html %}
 {% endfor %}
 </table>
+{% endif %}
+
+{% if site.data.2022_participants.ostudent %}
+<a id="ostudents"></a>
+## Students
+<ul>
+{% for part in site.data.2022_participants.ostudent %}
+<li> {{ part.name }} </li>
+{% endfor %}
+</ul>
 {% endif %}
 
 

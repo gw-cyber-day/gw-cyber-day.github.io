@@ -16,7 +16,11 @@ leadership:
     title: Dean, School of Engineering and Applied Science; and Professor of Electrical and Computer Engineering
     school: School of Engineering and Applied Sience
 
-
+  - name: Mike Glatzer
+    school: Provosts Office
+    img: https://gwtoday.gwu.edu/sites/g/files/zaxdzs5401/files/image/GWTD_VProv_Oct2022%20%281%29.jpeg
+    title: Vice Provost for Budget and Finance
+    
 pis:
   - name: Adam J. Aviv
     website: https://adamaviv.com
@@ -85,7 +89,34 @@ pis:
     school: School of Engineering and Applied Science
     int: Secure AR and VR systems, e-commerce security, end-point security
     class: CSCI 6548 E-Commerce Security
-      
+  - name: Neil Wasserman
+    website: linkedin.com/in/neilhwasserman
+    school: School of Engineering and Applied Science
+    int: My research focuses on blockchain and applications to Disaster Risk Reduction and interoperability.
+    class: CSCI 4414 Introduction to Blockchain Technology and Applications
+    title: Adjunct Faculty Computer Science
+  - name: Chung Hyuk Park
+    website: http://www.chunghyukpark.com/
+    int: Privacy in Telehealth
+    title: Associate Professor of Biomedical Engineering
+    school: School of Engineering and Applied Science
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/park_1.jpg?itok=_P1njzAz
+  - name: Payman Dehghanian
+    website: https://smartgridlab.seas.gwu.edu/
+    int: Equipment and sensors data analytics, expansive and interconnected energy landscape.
+    school: School of Engineering and Applied Science
+    title: Assistant Professor of Electrical and Computer Engineering
+  - name: Abzatdin Adamov
+    website: https://cedawi.org/
+    school: School of Engineering and Applied Science
+    int: Data Analytics and ML support for Cyber Security
+  - name: Timothy Wood
+    website: https://faculty.cs.gwu.edu/timwood/
+    img: https://faculty.cs.gwu.edu/timwood/images/tim1.jpg
+    school: School of Engineering and Applied Science
+    int: Operating systems and Distributed systems
+    title: Associate Professor of Computer Science
+    
 staff:
   - name: Costis Toregas
     img: /participants/2022-imgs/costis.jpg
@@ -98,7 +129,7 @@ staff:
     title: Program Director, Cybersecurity Strategy and Information Management Program; Assistant Professor
     school: College of Professional Studies
     
-student:
+rstudent:
   - name: Collins Munyendo
     website: https://collinsmunyendo.github.io/
     img: https://collinsmunyendo.github.io/images/collins_munyendo_cropped.png
@@ -118,3 +149,47 @@ student:
     title: MS Student in Computer Science
     school: School of Engineering and Applied Science
     adv: Dr. Adam J. Aviv
+  - name: Linsheng Liu
+    int: Cryptography and privacy
+    title: PhD Student in Computer Scienc
+    adv: Dr. Arkady Yerukhimovich
+  - name: Suvasree Biswas
+    title: PhD Student in Computer Science
+    int: Cryptography
+    adv: Dr. Arkady Yerukhimovich
+    img: https://www.csa.iisc.ac.in/~cris/images/members/m_suvasree.png
+  - name: Isaiah King
+    title: PhD Student in Electrical and Computer Engineering
+    adv: Dr. Howie Huang
+    img: https://isaiahjking.com/img/headshot.png
+    website: https://isaiahjking.com/
+  - name: Vineetha Paruchuri
+    title: PhD Student in Computer Science
+    adv: Dr. Sibin Mohan
+  - name: Mohammad Samad Ul Haque
+    title: PhD Student in Computer Science
+    adv: Dr. Sibin Mohan
+  - name: Michael Rossetti
+    title: PhD Student in Engineering Management and Systems Egineering
+    adv: Dr. David Broniatowski
+    
+ostudent:
+  - name: Krupal Sharma
+  - name: Thomas Harold Schmidt
+  - name: Sai Revanth Chennupati
+  - name: Arwa Alsahdi
+  - name: Rajesh Reddy Thiyyagura
+  - name: Austin McCall
+  - name: Henry Mann
+  - name: Shirish Inamdar
+  - name: Rashi Tiwary 
+  - name: Beth Ellinport
+  - name: Saquib Saifee
+  - name: Arman Ahmadi
+  - name: Jasmy Elzha Mathew
+  - name: Sameen Ahmad
+  - name: Shreya Lad
+  - name: Lena Rose
+  - name: Annasilvia Condotta 
+  - name: Samuel Pearson
+  - name: Sooyoung Kim  
