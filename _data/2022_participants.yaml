@@ -29,6 +29,7 @@ pis:
     school: School of Engineering and Applied Science
     int: Usable Security and Privacy, Security Measurement, System Security
     class: CS6907 Usable Security and Privacy
+    talk: Human Factors in Cybersecurity and Privacy
   - name: Rahul Simha
     website: https://www2.seas.gwu.edu/~simha/
     img: "/participants/2022-imgs/simha_0.jpg"
@@ -49,12 +50,13 @@ pis:
     school: School of Engineering and Applied Science
     int: Systems security, Autonomous Systems, CPS, OS
     class: CSCI 6907 Secure Autonomous Systems
+    talk: Increasing Trust in Computing and Autonomous Systems. [recorded]
   - name: Susan Aaronson
     website: https://elliott.gwu.edu/susan-aaronson
     img: https://elliott.gwu.edu/sites/g/files/zaxdzs4886/files/image/Aaronson%2C%20Susan.jpg
     title: Research Professor; Founder Director, Digital Trade and Data Governance Hub
     school: Elliot School of International Affairs
-    int: Relationship to data governance 
+    int: Relationship to data governance
   - name: Daniel Solove
     website: https://danielsolove.com
     img: https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/styles/person_main_image/public/image/daniel-solove-headshot.png?itok=VCidHQTj
@@ -83,6 +85,7 @@ pis:
     school: School of Engineering and Applied Science
     int: Designing and developing computer algorithms and systems for cyber threat detection. 
     class: ECE 6130 Big Data and Cloud Computing
+    talk: Building Next-Generation Cybersecurity with Graph AI
   - name: Hurriyet Ok
     website: https://blogs.gwu.edu/hurriyetok
     title: Senior Research Fellow, Computer Science
