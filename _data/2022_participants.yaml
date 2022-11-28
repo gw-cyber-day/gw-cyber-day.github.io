@@ -120,6 +120,7 @@ pis:
     school: School of Engineering and Applied Science
     int: Operating systems and Distributed systems
     title: Associate Professor of Computer Science
+    talk: Systems Support for Microservice and Edge Cloud Security
     
 staff:
   - name: Costis Toregas
