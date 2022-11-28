@@ -52,12 +52,6 @@ pis:
     int: Systems security, Autonomous Systems, CPS, OS
     class: CSCI 6907 Secure Autonomous Systems
     talk: Increasing Trust in Computing and Autonomous Systems. [recorded]
-  - name: Susan Aaronson
-    website: https://elliott.gwu.edu/susan-aaronson
-    img: https://elliott.gwu.edu/sites/g/files/zaxdzs4886/files/image/Aaronson%2C%20Susan.jpg
-    title: Research Professor; Founder Director, Digital Trade and Data Governance Hub
-    school: Elliot School of International Affairs
-    int: Relationship to data governance
   - name: Daniel Solove
     website: https://danielsolove.com
     img: https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/styles/person_main_image/public/image/daniel-solove-headshot.png?itok=VCidHQTj
@@ -72,6 +66,13 @@ pis:
     school: School of Engineering and Applied Science
     int: Theoretic and Applied Cryptography
     class: CS 4331/6331 -- Cryptography, CS 3907/6907 -- Advanced Cryptography
+  - name: Susan Aaronson
+    website: https://elliott.gwu.edu/susan-aaronson
+    img: https://elliott.gwu.edu/sites/g/files/zaxdzs4886/files/image/Aaronson%2C%20Susan.jpg
+    title: Research Professor; Founder Director, Digital Trade and Data Governance Hub
+    school: Elliot School of International Affairs
+    int: Relationship to data governance
+    talk: Participatory AI and XR, Data Governance and Human Rights
   - name: Scott J. White 
     website: https://www.cps.gwu.edu/dr-scott-j-white
     img: https://www.cps.gwu.edu/sites/g/files/zaxdzs2416/f/styles/person_main_image/public/image/CPS_White_720x1080.jpg?itok=Oltd6dIz
