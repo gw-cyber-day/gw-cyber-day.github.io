@@ -9,18 +9,18 @@ leadership:
     img: https://provost.gwu.edu/sites/g/files/zaxdzs626/f/downloads/Geneva-Henry_UP_2014-WLA_1128.jpg
     title: Dean of Libraries and Academic Innovation; Vice Provost for IT
     school: Library and Academic Inovation and GW-IT
+    talk: GW IT and Cybersecurity -- Keeping You Safe
     
   - name: John Lach
     website: https://www.seas.gwu.edu/john-lach
     img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/downloads/Lach0919.jpg?itok=khAwH_rh
     title: Dean, School of Engineering and Applied Science; and Professor of Electrical and Computer Engineering
     school: School of Engineering and Applied Sience
-
   - name: Mike Glatzer
     school: Provosts Office
     img: https://gwtoday.gwu.edu/sites/g/files/zaxdzs5401/files/image/GWTD_VProv_Oct2022%20%281%29.jpeg
-    title: Vice Provost for Budget and Finance
-    
+    title: Vice Provost for Budget and Finance    
+
 pis:
   - name: Adam J. Aviv
     website: https://adamaviv.com

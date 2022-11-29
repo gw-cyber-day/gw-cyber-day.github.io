@@ -15,14 +15,22 @@ title: Schedule
  
 
 * **930-1050: Rapid Research Talks (7 minutes with 3 minutes of questions)**
-{% if site.data.2022_participants.pis %}
-{% for part in site.data.2022_participants.pis %}
-{% if part.talk %}
-  * {{ part.name }} -- {{part.title}}
-    * *{{part.talk}}*
-{% endif %}
-{% endfor %}
-{% endif%}
+
+  * Adam J. Aviv – Associate Professor of Computer Science
+    * *Human Factors in Cybersecurity and Privacy*
+  * Susan Aaronson – Research Professor; Founder Director, Digital Trade and Data Governance Hub 
+    * *Participatory AI and XR, Data Governance and Human Rights*
+  * Guru Venkataramani – Professor of Electrical and Computer Engineering 
+    * *Hardware Systems Security @ GW*
+  * Geneva Henry - Dean of Libraries and Academic Innovation; Vice Provost for IT
+    * *GW IT and Cybersecurity: Keeping You Safe*
+  * Sibin Mohan – Associate Professor of Computer Science
+    * *Increasing Trust in Computing and Autonomous Systems. [recorded]*
+  * Howie Huang – Professor of Electrical and Computer Engineering 
+    * *Building Next-Generation Cybersecurity with Graph AI*
+  * Timothy Wood – Associate Professor of Computer Science 
+    * *Systems Support for Microservice and Edge Cloud Security*
+
 
 
 * **1050-1115: Break/Coffee**
