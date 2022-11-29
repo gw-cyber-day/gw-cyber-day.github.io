@@ -19,8 +19,13 @@ leadership:
   - name: Mike Glatzer
     school: Provosts Office
     img: https://gwtoday.gwu.edu/sites/g/files/zaxdzs5401/files/image/GWTD_VProv_Oct2022%20%281%29.jpeg
-    title: Vice Provost for Budget and Finance    
-
+    title: Vice Provost for Budget and Finance
+    
+  - name: Brian Ensor
+    school: GW-IT
+    title: Associate Vice President, Cybersecurity, Infrastructure, and Research Services
+    img: https://it.gwu.edu/sites/g/files/zaxdzs2826/f/image/Brian%20Ensor%20-%20Cropped.jpg
+    
 pis:
   - name: Adam J. Aviv
     website: https://adamaviv.com
@@ -184,7 +189,10 @@ rstudent:
   - name: Haoyu He
     title: PhD Student in Electrical and Computer Engineering
     adv:  Dr. Howie Huang
-
+  - name: Kaliash, Gogineni
+    title: PhD Student in Electrical and Computer Engineering
+    adv: Dr. Guru Venkataramani 
+    
 ostudent:
   - name: Krupal Sharma
   - name: Thomas Harold Schmidt
@@ -208,3 +216,4 @@ ostudent:
   - name: Jillian Talenda
   - name: Max Chayet
   - name: Elaine Ly  
+  - name: Della Jones
