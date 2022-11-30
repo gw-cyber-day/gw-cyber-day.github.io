@@ -14,7 +14,7 @@ title: Schedule
 * **915-930: Introductions from the Audience**
  
 
-* **930-1050: Rapid Research Talks (7 minutes with 3 minutes of questions)**
+* **930-1030: Rapid Research Talks (7 minutes with 3 minutes of questions)**
 
   * Adam J. Aviv – Associate Professor of Computer Science
     * *Human Factors in Cybersecurity and Privacy*
@@ -32,20 +32,30 @@ title: Schedule
     * *Systems Support for Microservice and Edge Cloud Security*
 
 
+* **1030-1100: Break/Coffee**
 
-* **1050-1115: Break/Coffee**
-
-* **1115-1215: Panel on cybersecurity educational offerings at GW**
+* **1100-1200: Panel on cybersecurity educational offerings at GW**
   * Moderators: Costis Toregas and Scott J. White
   
-* **1215-200: Lunch and Research Poster Session**
+* **1200-130: Lunch and Research Poster Session**
 
-* **200-330: Breakout Groups**
+  Poster presenters:
+  * Collins Munyendo
+  * Ruining Yang
+  * Linsheng Liu
+  * Michael Rossetti
+  * Isaiah King
+  * Vineetha Paruchuri
+  * Mohammad Samad Ul Haque
+  * Thinh H. Dang
+  * Haoyu He
+  * Hurriet Ok
+  * Kailash Gogineni
 
-* **330-400: Break/Coffee**
+* **130-230: Town hall on future of support elements and cybersecurity@GW long term efforts**
 
-* **400-500: Town hall on future of support elements and cybersecurity@GW long term efforts**
+* **230-300: Break/Cofee**
 
-* **500-530: Out-brief discussion and next steps**
+* **300-330: Out-brief discussion and next steps**
 
-
+* **330: Departure**
