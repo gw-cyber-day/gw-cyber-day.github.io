@@ -8,14 +8,17 @@ title: Schedule
 * **830-900 : Arrival/Breakfast**
 
 * **900-915: Opening Remarks**
-  * Pamela M. Norris -- Vice Provost
-  * John Lach -- Dean of the School of Engeering
+  * Pamela M. Norris -- Vice Provost for Research
+  * John Lach -- Dean of the School of Engineering
 
 * **915-930: Introductions from the Audience**
  
 
 * **930-1030: Rapid Research Talks (7 minutes with 3 minutes of questions)**
 
+  Organizer: Adam J. Aviv
+
+  Speakers:
   * Adam J. Aviv – Associate Professor of Computer Science
     * *Human Factors in Cybersecurity and Privacy*
   * Susan Aaronson – Research Professor; Founder Director, Digital Trade and Data Governance Hub 
@@ -38,6 +41,8 @@ title: Schedule
   * Moderators: Costis Toregas and Scott J. White
   
 * **1200-130: Lunch and Research Poster Session**
+  
+  Organizer: Arkady Yerukhimovich
 
   Poster presenters:
   * Collins Munyendo
@@ -53,9 +58,11 @@ title: Schedule
   * Kailash Gogineni
 
 * **130-230: Town hall on future of support elements and cybersecurity@GW long term efforts**
-
+  * Moderator: Guru Venkataramani
+  
 * **230-300: Break/Cofee**
 
 * **300-330: Out-brief discussion and next steps**
-
+  * Moderator: Costis Toregas
+  
 * **330: Departure**
