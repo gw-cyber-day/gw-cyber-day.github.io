@@ -24,7 +24,7 @@ title: Schedule
   * Susan Aaronson – Research Professor; Founder Director, Digital Trade and Data Governance Hub 
     * *Participatory AI and XR, Data Governance and Human Rights*
   * Guru Venkataramani – Professor of Electrical and Computer Engineering 
-    * *Hardware Systems Security @ GW*
+    * *Hardware Systems Security*
   * Geneva Henry - Dean of Libraries and Academic Innovation; Vice Provost for IT
     * *GW IT and Cybersecurity: Keeping You Safe*
   * Sibin Mohan – Associate Professor of Computer Science
