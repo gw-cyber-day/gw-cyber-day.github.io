@@ -132,6 +132,11 @@ pis:
     school: College of Professional Studies
     title: Faculty Member, Cybersecurity Bachelor's Degree Completion Program
     class: PSCS  3100_Principles of Cybersecurity; PSCS 3111_IT Security System Audits; PSCS 3117_Project Management in IT; PSCS 3109_Network Security
+  - name: Lucy Simko
+    title: Research Scientist / Postdoctoral Scholar in Computer Science
+    school: School of Egineering and Applied Science 
+    website: https://www.lucysimko.com/
+    img: https://gwusec.seas.gwu.edu/imgs/people/021_lucy.jpg
     
 staff:
   - name: Costis Toregas
@@ -226,3 +231,4 @@ ostudent:
   - name: Nathaniel Akrong
   - name: Carmela Gonzales
   - name: Jasmy Elzha Mathew
+  - name: Akhil Reddy Duvvuru
