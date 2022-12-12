@@ -29,6 +29,8 @@ title: Schedule
     * *GW IT and Cybersecurity: Keeping You Safe*
   * Sibin Mohan – Associate Professor of Computer Science
     * *Increasing Trust in Computing and Autonomous Systems. [recorded]*
+  * Dan Solove -- John Marshall Harlan Research Professor of Law George Washington University Law School
+    * *Fictions of Consent in Privacy Law*
   * Howie Huang – Professor of Electrical and Computer Engineering 
     * *Building Next-Generation Cybersecurity with Graph AI*
   * Timothy Wood – Associate Professor of Computer Science 
