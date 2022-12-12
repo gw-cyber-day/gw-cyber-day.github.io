@@ -21,20 +21,20 @@ title: Schedule
   Speakers:
   * Adam J. Aviv – Associate Professor of Computer Science
     * *Human Factors in Cybersecurity and Privacy*
-  * Susan Aaronson – Research Professor; Founder Director, Digital Trade and Data Governance Hub 
-    * *Participatory AI and XR, Data Governance and Human Rights*
+  * Geneva Henry - Dean of Libraries and Academic Innovation; Vice Provost for IT
+    * *GW IT and Cybersecurity: Keeping You Safe*    
   * Guru Venkataramani – Professor of Electrical and Computer Engineering 
     * *Hardware Systems Security*
-  * Geneva Henry - Dean of Libraries and Academic Innovation; Vice Provost for IT
-    * *GW IT and Cybersecurity: Keeping You Safe*
-  * Arkady Yerukhimovich
-    * *Title TBA*
-  * Sibin Mohan – Associate Professor of Computer Science
-    * *Increasing Trust in Computing and Autonomous Systems. [recorded]*
   * Dan Solove -- John Marshall Harlan Research Professor of Law George Washington University Law School
     * *Fictions of Consent in Privacy Law*
+  * Arkady Yerukhimovich
+    * *Collaboration in an untrustworthy world*
+  * Sibin Mohan – Associate Professor of Computer Science
+    * *Increasing Trust in Computing and Autonomous Systems. [recorded]*
   * Howie Huang – Professor of Electrical and Computer Engineering 
     * *Building Next-Generation Cybersecurity with Graph AI*
+  * Susan Aaronson – Research Professor; Founder Director, Digital Trade and Data Governance Hub 
+    * *Participatory AI and XR, Data Governance and Human Rights*    
   * Timothy Wood – Associate Professor of Computer Science 
     * *Systems Support for Microservice and Edge Cloud Security*
 
