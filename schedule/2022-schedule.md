@@ -14,7 +14,7 @@ title: Schedule
 * **915-930: Introductions from the Audience**
  
 
-* **930-1030: Rapid Research Talks (7 minutes with 3 minutes of questions)**
+* **930-1030: Rapid Research Talks (5 minutes with 3 minutes of questions)**
 
   Organizer: Adam J. Aviv
 
@@ -27,6 +27,8 @@ title: Schedule
     * *Hardware Systems Security*
   * Geneva Henry - Dean of Libraries and Academic Innovation; Vice Provost for IT
     * *GW IT and Cybersecurity: Keeping You Safe*
+  * Arkady Yerukhimovich
+    * *Title TBA*
   * Sibin Mohan – Associate Professor of Computer Science
     * *Increasing Trust in Computing and Autonomous Systems. [recorded]*
   * Dan Solove -- John Marshall Harlan Research Professor of Law George Washington University Law School
