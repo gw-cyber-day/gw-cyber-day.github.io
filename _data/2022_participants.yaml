@@ -1,7 +1,7 @@
 leadership:
   - name: Pamela M. Norris
-    website: https://www.seas.gwu.edu/pamela-m-norris
-    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/norris.png?itok=U47c3EFS
+    website: https://www.mae.seas.gwu.edu/pamela-m-norris
+    img: https://www.mae.seas.gwu.edu/sites/g/files/zaxdzs4961/files/downloads/norris.png
     title: Vice Provost for Research
     
   - name: Geneva Henry
@@ -13,9 +13,10 @@ leadership:
     
   - name: John Lach
     website: https://www.seas.gwu.edu/john-lach
-    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/downloads/Lach0919.jpg?itok=khAwH_rh
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs5436/files/downloads/Lach0919.jpg
     title: Dean, School of Engineering and Applied Science; and Professor of Electrical and Computer Engineering
     school: School of Engineering and Applied Sience
+    
   - name: Mike Glatzer
     school: Provosts Office
     img: https://gwtoday.gwu.edu/sites/g/files/zaxdzs5401/files/image/GWTD_VProv_Oct2022%20%281%29.jpeg
@@ -51,7 +52,7 @@ pis:
     talk: Hardware Systems Security @ GW
   - name: Sibin Mohan
     website: https://www.seas.gwu.edu/sibin-mohan
-    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/sibin.png?itok=WNCgK7Po
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs5436/files/image/sibin.png
     title: Associate Professor of Computer Science
     school: School of Engineering and Applied Science
     int: Systems security, Autonomous Systems, CPS, OS
@@ -59,7 +60,7 @@ pis:
     talk: Increasing Trust in Computing and Autonomous Systems. [recorded]
   - name: Daniel Solove
     website: https://danielsolove.com
-    img: https://www.law.gwu.edu/sites/g/files/zaxdzs2351/f/styles/person_main_image/public/image/daniel-solove-headshot.png?itok=VCidHQTj
+    img: https://www.law.gwu.edu/sites/g/files/zaxdzs5421/files/image/daniel-solove-headshot.png
     title: John Marshall Harlan Research Professor of Law George Washington University Law School
     school: George Washington University Law School
     int: Privacy and data security
@@ -87,7 +88,7 @@ pis:
     class: Masters in Cybersecurity Strategy & Information Management
   - name: Howie Huang
     website: http://howie.seas.gwu.edu
-    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/faculty_headshots/Huang_Howie0220.jpg?itok=jvx0Zirp
+    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs5436/files/image/faculty_headshots/Huang_Howie0220.jpg
     title: Professor of Electrical and Computer Engineering
     school: School of Engineering and Applied Science
     int: Designing and developing computer algorithms and systems for cyber threat detection. 
@@ -110,7 +111,7 @@ pis:
     int: Privacy in Telehealth
     title: Associate Professor of Biomedical Engineering
     school: School of Engineering and Applied Science
-    img: https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/park_1.jpg?itok=_P1njzAz
+    img: https://www.bme.seas.gwu.edu/sites/g/files/zaxdzs4511/files/2022-04/park.jpg
   - name: Payman Dehghanian
     website: https://smartgridlab.seas.gwu.edu/
     int: Equipment and sensors data analytics, expansive and interconnected energy landscape.
