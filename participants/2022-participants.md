@@ -64,10 +64,3 @@ title: Participants
 
 
 
-To be added to the list of participants, please register.
-
-<div class="reg-link">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScMXPSUulo4vDVfhJA5t7L1RQPIPueJ4weK7bUJSjUZi7yjAQ/viewform?usp=sf_link:">
-<button>Register</button>
-</a>
-</div>
